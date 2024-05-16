@@ -4,6 +4,7 @@
 - 💞️ I’m looking for intern plus job
 - 📫 How to reach me
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
