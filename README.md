@@ -1,8 +1,7 @@
 ## Hello 👋 There It's Me Hages
 -  I'm a Budding DATA SCIENTIST
 -  Here is my [Portfolio](https://hages-portfolio.netlify.app/)
--  I’m interested in DATA SCIENCE
--  Having hands on experience by doing several projects using React, Python,JavaScript, HTML5, CSS3.  
+-  I’m interested in DATA SCIENCE  
 -  I’m currently learning Data Science
 -  I’m looking for intern plus job
 - 📫 How to reach me
