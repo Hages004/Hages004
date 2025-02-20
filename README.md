@@ -1,9 +1,9 @@
 ## Hello 👋 There It's Me Hages
--  I'm a Budding Full-Stack Developer
+-  I'm a Budding DATA SCIENTIST
 -  Here is my [Portfolio](https://hages-portfolio.netlify.app/)
--  I’m interested in Full Stack Development 
+-  I’m interested in DATA SCIENCE
 -  Having hands on experience by doing several projects using React, Python,JavaScript, HTML5, CSS3.  
--  I’m currently learning DSA
+-  I’m currently learning Data Science
 -  I’m looking for intern plus job
 - 📫 How to reach me
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -19,8 +19,6 @@
 
 ![Hages's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hages004&show_icons=true&theme=radical)
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Hages004/Hages004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
